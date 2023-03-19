@@ -2,5 +2,5 @@
 
 <p align="center">
   <img src="get-real.gif" alt="animated" />
-  <img src="hackerCat.jpg" alt="img" />
+  <img src="hackerCat.jpg" alt="image" height="20!/>
 </p>
