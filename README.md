@@ -5,7 +5,16 @@
   <img src="hackerCat.jpg" alt="image" height="300"/>
 </div>
 
-<div align="center">
+<div align="center" class="CFProflie">
   <a href="https://codeforces.com/profile/AlanAcosta">CodeForces Profile</a>
-  
 </div>
+
+<style>
+  .CFProfile {
+    padding: 5rem;
+    color: #FEFF04;
+    font-size: 3rem;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+  }
+</style>
