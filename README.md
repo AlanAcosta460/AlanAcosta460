@@ -8,5 +8,3 @@
 <div align="center" class="CFProflie">
   <a href="https://codeforces.com/profile/AlanAcosta">CodeForces Profile</a>
 </div>
-
-
