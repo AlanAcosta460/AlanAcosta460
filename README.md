@@ -1,3 +1,6 @@
+<link rel="preload" href="styles.css" as="style">
+<link href="styles.css" rel="stylesheet" >
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAcosta460&langs_count=9&theme=aura&hide=papyrus&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
