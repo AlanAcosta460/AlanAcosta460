@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAcosta460&langs_count=20&theme=aura&hide=papyrus,tex,html,css,185,181&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAcosta460&langs_count=20&theme=aura&hide=papyrus,tex,html,css,js&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="get-real.gif" alt="animated" height='300'/>
