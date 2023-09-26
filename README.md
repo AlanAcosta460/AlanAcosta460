@@ -5,6 +5,8 @@
   <img align="right" src="hackerCat.jpg" alt="image" height="300"/>
 </div>
 
+uses: Platane/snk/svg-only@v
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
