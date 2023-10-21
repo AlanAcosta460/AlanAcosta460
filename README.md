@@ -11,6 +11,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/AlanAcosta460)
-</div>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
