@@ -19,5 +19,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+<div align="center">
+  ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+  ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+</div>
