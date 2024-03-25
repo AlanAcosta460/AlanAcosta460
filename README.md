@@ -7,8 +7,6 @@
 ![](https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg)
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 <div align="center">
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
@@ -20,3 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
