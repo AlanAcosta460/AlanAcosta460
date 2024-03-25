@@ -1,15 +1,12 @@
-<div>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAcosta460&langs_count=20&theme=aura&hide=papyrus,tex,html,css,Jupyter%20Notebook,kotlin&layout=donut&exclude_repo=POO-Java-Doc" />
   <img align="right" src="https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-</div>
+</p>
 
 <!--
 <p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
 -->
 
-<p>
-  
-</p>
   
 <div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
