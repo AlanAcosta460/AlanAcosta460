@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg)
 
 
-<div align="center">
+<div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
   <img align="right" src="hackerCat.jpg" alt="image" height="300"/>
 </div>
@@ -19,7 +19,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-  ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+<div>
+  <img align="left" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
+  <img align="right" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
 </div>
