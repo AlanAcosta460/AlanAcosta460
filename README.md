@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
 -->
   
-<div">
+<div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
   <img align="right" src="hackerCat.jpg" alt="image" height="300"/>
 </div>
