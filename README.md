@@ -7,9 +7,9 @@
 <p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
 -->
 
-<p>Q1</p>
+<p></p>
   <br>
-<p>Q2</p>
+<p></p>
   
 <div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
