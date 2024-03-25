@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
 -->
 
-<img align="center" src="(https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img align="center" src="https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
 <div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
