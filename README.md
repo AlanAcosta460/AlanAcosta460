@@ -20,6 +20,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/max_rating.svg" />
-  <img src="https://raw.githubusercontent.com/AlanAcosta460/cf-stats/main/output/rating.svg" />
+  <img src="https://raw.githubusercontent.com/AlanAcosta/cf-stats/main/output/max_rating.svg" />
+  <img src="https://raw.githubusercontent.com/AlanAcosta/cf-stats/main/output/rating.svg" />
 </div>
