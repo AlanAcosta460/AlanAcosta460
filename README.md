@@ -5,11 +5,12 @@
 <!--
 <p align="center"> <img src="https://leetcard.jacoblin.cool/AlanAcosta460" />
 -->
-  
+<!--
 <div>
   <img align="left" src="get-real.gif" alt= "GIF" height='300'/>
   <img align="right" src="hackerCat.jpg" alt="image" height="300"/>
 </div>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanAcosta460/AlanAcosta460/output/github-contribution-grid-snake-dark.svg">
